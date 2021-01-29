@@ -22,8 +22,13 @@
 // import d3InterpolatePath from "../tutorial/d3InterpolatePath";
 // import ArtModuleAnimation from "../tutorial/ArtModuleAnimation";
 // import FlubberModuleAnimation from "../tutorial/FlubberModuleAnimation";
-import CliffAnimation from "../tutorial/CliffAnimation";
+// import CliffAnimation from "../tutorial/CliffAnimation";
+// import WaveAnimation from "../tutorial/WaveAnimation";
+// import UnMountingAnimations from "../tutorial/UnMountingAnimations";
+// import CornersAnimations from "../tutorial/CornersAnimations";
+// import StaggerHeadsAnimation from "../tutorial/StaggerHeadsAnimation";
 
-// import ProgressBar from "../tutorial/Practice/ProgressBar";
+// import ProgressBar from "../tutorial/practice/ProgressBar";
+import SlidingBottomNav from "../tutorial/practice/SlidingBottomNav";
 
-export default CliffAnimation;
+export default SlidingBottomNav;
